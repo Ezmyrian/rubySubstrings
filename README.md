@@ -1,1 +1,1 @@
-# rubySubstrings
+In this small project I will be taking in a string and an array of valid substrings and writing a program that will return a hash listing each substring found in the array and the number of times it was found.
